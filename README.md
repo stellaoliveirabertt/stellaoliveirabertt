@@ -2,7 +2,7 @@
 
 Programadora full-stack, apaixonada por desenvolvimento de tecnologias mobile e web.
 
-Sou desenvolvedora full stack, completamente viciada e apaixonada por códigos. Comecei a desenvolver em 2012 e desde então não consegui mais parar.
+Completamente viciada e apaixonada por códigos. Comecei a desenvolver em 2012 e desde então não consegui mais parar.
 
 Desenvolvo projetos voltados para a independência e fortalecimento do usuário, através da análise de usabilidade e melhores estratégias. Viso sempre aprender novas tecnologias para propor o melhor desempenho do sistema apresentando ideias inovadoras.
 
