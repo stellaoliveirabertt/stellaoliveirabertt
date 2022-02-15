@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T17:16:34.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="5CTjIV5rwAOz37lFSebo" version="16.5.6" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-15T17:45:47.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="VnEu2JsfRLT_MKAYw5Fs" version="16.5.6" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="1476" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="J2Jetb3My2sW_DwhAeo9-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J2Jetb3My2sW_DwhAeo9-5" target="J2Jetb3My2sW_DwhAeo9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-5" value="user input &lt;br&gt;&lt;br&gt;option 3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J2Jetb3My2sW_DwhAeo9-7" target="J2Jetb3My2sW_DwhAeo9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-7" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Me conta, o que você quer fazer por aqui?&lt;br&gt;&lt;br&gt;[1] Novo Pedido&lt;/span&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;[2] Acompanhamento dos Pedidos&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;[3] Cancelamento de pedido&lt;/span&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;[4] Cadastro de Notificações&lt;br&gt;[5] Sair&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J2Jetb3My2sW_DwhAeo9-8" target="J2Jetb3My2sW_DwhAeo9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-8" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#202124&quot; face=&quot;roboto, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Os pedidos que você pode cancelar são:&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#202124&quot; face=&quot;roboto, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#202124&quot; face=&quot;roboto, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;[0] - xxxx - date - status - total&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#202124&quot; face=&quot;roboto, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;[1] - xxxx - date - status - total&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#202124&quot; face=&quot;roboto, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;[2] - xxxx - date - status - total&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#202124&quot; face=&quot;roboto, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;[3] - xxxx - date - status - total&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#202124&quot; face=&quot;roboto, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;[4] - Sair&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#202124&quot; face=&quot;roboto, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#202124&quot; face=&quot;roboto, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Para cancelar algum dos itens acima digite a opção correspondente&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="310" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J2Jetb3My2sW_DwhAeo9-11" target="J2Jetb3My2sW_DwhAeo9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-11" value="user input&amp;nbsp;&lt;br&gt;&lt;br&gt;option 1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J2Jetb3My2sW_DwhAeo9-13" target="J2Jetb3My2sW_DwhAeo9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-13" value="&lt;div&gt;Qual é a razão do cancelamento:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[0] - xxxx&lt;/div&gt;&lt;div&gt;[1] - xxxx&lt;/div&gt;&lt;div&gt;[2] - xxxx&lt;/div&gt;&lt;div&gt;[3] - xxxx&lt;/div&gt;&lt;div&gt;[4] - Sair&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Digite a opção correspondente&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="50" width="230" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J2Jetb3My2sW_DwhAeo9-15" target="J2Jetb3My2sW_DwhAeo9-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-15" value="user input&amp;nbsp;&lt;br&gt;&lt;br&gt;option 1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J2Jetb3My2sW_DwhAeo9-17" target="J2Jetb3My2sW_DwhAeo9-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-17" value="Pedido de cancelamento enviado ao engarrador" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="430" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J2Jetb3My2sW_DwhAeo9-20" value="Menu principal" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="490" width="125" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
