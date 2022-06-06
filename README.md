@@ -13,9 +13,9 @@ Desenvolvo projetos voltados para a independência e fortalecimento do usuário,
 </p>
 
 
-<!-- ## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align='center'>
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=stellaoliveirabertt&show_icons=true&theme=vision-friendly-dark" alt="stellaoliveirabertt's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellaoliveirabertt&layout=compact&theme=vision-friendly-dark" alt="stellaoliveirabertt's most languages"/>
-</p> -->
+</p>
