@@ -11,3 +11,11 @@ Desenvolvo projetos voltados para a independência e fortalecimento do usuário,
 <a href="https://www.instagram.com/stellaoliveirabertt/"><img height="30" src="https://github.com/stellaoliveirabertt/stellaoliveirabertt/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:stellabertthiolly@live.com"><img height="30" src="https://github.com/stellaoliveirabertt/stellaoliveirabertt/blob/master/mail.png?raw=true"></a>
 </p>
+
+
+<!-- ## ⚙️ &nbsp;GitHub Analytics
+
+<p align='center'>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=stellaoliveirabertt&show_icons=true&theme=vision-friendly-dark" alt="stellaoliveirabertt's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellaoliveirabertt&layout=compact&theme=vision-friendly-dark" alt="stellaoliveirabertt's most languages"/>
+</p> -->
