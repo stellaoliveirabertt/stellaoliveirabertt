@@ -1,6 +1,6 @@
 # Olá, eu sou Stella! 👋
 
-#### Desenvolvedora Fullstack Sênior | Especialista em Soluções Web e Mobile | Apaixonada por Tecnologia
+#### Desenvolvedora Fullstack Sênior | Especialista em Soluções Web, Mobile e Desktop | Apaixonada por Tecnologia
 
 🛡️ Protetora do código sagrado e estrategista das linhas de comando, invocando a sabedoria de Atena para debugar os mais intrincados bugs. Me chame de Devtena, a guardiã! 🦉💻
 
