@@ -8,7 +8,6 @@
 Se você estiver procurando por uma desenvolvedora apaixonada e criativa, vamos conversar sobre como posso contribuir para o sucesso do seu projeto! Você pode me encontrar nos seguintes canais:
 
 - 📧 Email: [stellabertthiolly@live.com](mailto:stellabertthiolly@live.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/stellaoliveiram](https://www.linkedin.com/in/stellaoliveiram)
 - 🌐 Site: [https://olympio.dev.br](https://olympio.dev.br)
 
 Sinta-se à vontade para me contatar a qualquer momento. Estou ansiosa para conhecer novas pessoas e explorar novas oportunidades.
